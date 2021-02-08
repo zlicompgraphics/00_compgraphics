@@ -1,0 +1,2 @@
+make:
+  python picmaker.py
